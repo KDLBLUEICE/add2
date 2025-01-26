@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://KDLBLUEICE.github.io/",
+  "homepage": "https://KDLBLUEICE.github.io/ADD2/ADD2",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
